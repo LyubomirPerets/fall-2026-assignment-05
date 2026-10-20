@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <rect width="600" height="450" fill="#e7ede4"/>
+  <ellipse cx="300" cy="400" rx="170" ry="18" fill="#000" opacity="0.08"/>
+  <rect x="294" y="110" width="12" height="175" fill="#7a5532"/>
+  <path d="M300.0 130.0 Q313.0 74.5 369.6 81.2 Q356.6 136.8 300.0 130.0 Z" fill="#3c7a46"/>
+  <line x1="300.0" y1="130.0" x2="369.6" y2="81.2" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M300.0 165.0 Q243.4 171.8 230.4 116.2 Q287.0 109.5 300.0 165.0 Z" fill="#3c7a46"/>
+  <line x1="300.0" y1="165.0" x2="230.4" y2="116.2" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M300.0 195.0 Q313.0 139.5 369.6 146.2 Q356.6 201.8 300.0 195.0 Z" fill="#3c7a46"/>
+  <line x1="300.0" y1="195.0" x2="369.6" y2="146.2" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M300.0 225.0 Q243.4 231.8 230.4 176.2 Q287.0 169.5 300.0 225.0 Z" fill="#3c7a46"/>
+  <line x1="300.0" y1="225.0" x2="230.4" y2="176.2" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M300.0 250.0 Q313.0 194.5 369.6 201.2 Q356.6 256.8 300.0 250.0 Z" fill="#3c7a46"/>
+  <line x1="300.0" y1="250.0" x2="369.6" y2="201.2" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M225.0 290 L375.0 290 L355.0 400 L245.0 400 Z" fill="#3d3d3d"/>
+  <rect x="215.0" y="268" width="170" height="26" rx="6" fill="#2b2b2b"/>
+
+</svg>

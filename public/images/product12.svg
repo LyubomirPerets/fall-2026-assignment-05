@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <rect width="600" height="450" fill="#eef3e6"/>
+  <ellipse cx="300" cy="400" rx="170" ry="18" fill="#000" opacity="0.08"/>
+  <rect x="240" y="170" width="120" height="220" rx="24" fill="#a7c48a"/>
+  <rect x="275" y="120" width="50" height="55" rx="6" fill="#4b6b33"/>
+  <rect x="255" y="235" width="90" height="90" rx="8" fill="#fffaf0"/>
+  <text x="300" y="288" font-family="Georgia, serif" font-size="22" text-anchor="middle" fill="#4b6b33">Shine</text>
+  <path d="M275 120 L275 85 L360 85 L360 105 L325 105 L325 120 Z" fill="#4b6b33"/>
+  <path d="M325 150 L345 175" stroke="#4b6b33" stroke-width="10" stroke-linecap="round"/>
+
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <rect width="600" height="450" fill="#e6f0e2"/>
+  <ellipse cx="300" cy="400" rx="170" ry="18" fill="#000" opacity="0.08"/>
+  <rect x="240" y="170" width="120" height="220" rx="24" fill="#5c9e5a"/>
+  <rect x="275" y="120" width="50" height="55" rx="6" fill="#2f5d2e"/>
+  <rect x="255" y="235" width="90" height="90" rx="8" fill="#fffaf0"/>
+  <text x="300" y="288" font-family="Georgia, serif" font-size="22" text-anchor="middle" fill="#2f5d2e">Grow</text>
+
+</svg>

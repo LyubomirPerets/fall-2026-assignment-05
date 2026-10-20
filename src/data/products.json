@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Monstera Deliciosa",
+    "price": 34.99,
+    "category": "Plants",
+    "description": "The iconic split-leaf philodendron. Thrives in bright, indirect light and grows into a lush statement piece.",
+    "imageUrl": "./images/product1.svg"
+  },
+  {
+    "id": 2,
+    "name": "Snake Plant",
+    "price": 24.99,
+    "category": "Plants",
+    "description": "Upright, architectural leaves edged in gold. Nearly indestructible and happy in low light.",
+    "imageUrl": "./images/product2.svg"
+  },
+  {
+    "id": 3,
+    "name": "Fiddle Leaf Fig",
+    "price": 49.99,
+    "category": "Plants",
+    "description": "Large, violin-shaped leaves on a slender trunk. A favorite for sunny living room corners.",
+    "imageUrl": "./images/product3.svg"
+  },
+  {
+    "id": 4,
+    "name": "Golden Pothos",
+    "price": 18.99,
+    "category": "Plants",
+    "description": "Trailing vines with marbled green and gold leaves. Perfect for shelves and hanging baskets.",
+    "imageUrl": "./images/product4.svg"
+  },
+  {
+    "id": 5,
+    "name": "ZZ Plant",
+    "price": 29.99,
+    "category": "Plants",
+    "description": "Glossy, waxy leaflets that tolerate drought and dim offices. Ideal for beginners.",
+    "imageUrl": "./images/product5.svg"
+  },
+  {
+    "id": 6,
+    "name": "Classic Terracotta Pot",
+    "price": 14.99,
+    "category": "Planters",
+    "description": "Breathable, unglazed clay that helps prevent overwatering. Includes a drainage hole.",
+    "imageUrl": "./images/product6.svg"
+  },
+  {
+    "id": 7,
+    "name": "Speckled Ceramic Planter",
+    "price": 32.0,
+    "category": "Planters",
+    "description": "Hand-glazed stoneware with a soft speckled finish. Pairs beautifully with leafy greens.",
+    "imageUrl": "./images/product7.svg"
+  },
+  {
+    "id": 8,
+    "name": "Macramé Hanging Planter",
+    "price": 21.5,
+    "category": "Planters",
+    "description": "Hand-knotted cotton hanger with a sage pot. Brings plants up to eye level.",
+    "imageUrl": "./images/product8.svg"
+  },
+  {
+    "id": 9,
+    "name": "Self-Watering Planter",
+    "price": 27.99,
+    "category": "Planters",
+    "description": "A built-in reservoir and water-level gauge keep roots evenly moist for up to two weeks.",
+    "imageUrl": "./images/product9.svg"
+  },
+  {
+    "id": 10,
+    "name": "Organic Potting Mix",
+    "price": 12.99,
+    "category": "Plant Care",
+    "description": "A chunky, airy blend of coir, bark, and perlite made for tropical houseplants.",
+    "imageUrl": "./images/product10.svg"
+  },
+  {
+    "id": 11,
+    "name": "Liquid Plant Food",
+    "price": 9.99,
+    "category": "Plant Care",
+    "description": "Gentle, balanced fertilizer for weekly feeding during the growing season.",
+    "imageUrl": "./images/product11.svg"
+  },
+  {
+    "id": 12,
+    "name": "Neem Leaf Shine Spray",
+    "price": 11.49,
+    "category": "Plant Care",
+    "description": "Cleans dusty leaves and adds a natural shine while deterring common pests.",
+    "imageUrl": "./images/product12.svg"
+  },
+  {
+    "id": 13,
+    "name": "Brass Watering Can",
+    "price": 38.0,
+    "category": "Tools",
+    "description": "A long, narrow spout delivers water precisely to the soil, not the leaves.",
+    "imageUrl": "./images/product13.svg"
+  },
+  {
+    "id": 14,
+    "name": "Pruning Shears",
+    "price": 19.99,
+    "category": "Tools",
+    "description": "Sharp stainless steel blades for clean cuts when trimming and propagating.",
+    "imageUrl": "./images/product14.svg"
+  },
+  {
+    "id": 15,
+    "name": "Soil Moisture Meter",
+    "price": 15.99,
+    "category": "Tools",
+    "description": "No batteries required. Probe the soil to know exactly when it's time to water.",
+    "imageUrl": "./images/product15.svg"
+  }
+]

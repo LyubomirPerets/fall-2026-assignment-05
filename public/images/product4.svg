@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <rect width="600" height="450" fill="#f3f0de"/>
+  <ellipse cx="300" cy="400" rx="170" ry="18" fill="#000" opacity="0.08"/>
+  <path d="M300 270 Q210 260 210 360" stroke="#4f7f3a" stroke-width="5" fill="none"/>
+  <path d="M210.0 300.0 Q199.0 325.3 174.3 313.0 Q185.3 287.7 210.0 300.0 Z" fill="#c9c94a"/>
+  <line x1="210.0" y1="300.0" x2="174.3" y2="313.0" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M206.0 330.0 Q195.0 355.3 170.3 343.0 Q181.3 317.7 206.0 330.0 Z" fill="#7fae3e"/>
+  <line x1="206.0" y1="330.0" x2="170.3" y2="343.0" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M210.0 360.0 Q199.0 385.3 174.3 373.0 Q185.3 347.7 210.0 360.0 Z" fill="#c9c94a"/>
+  <line x1="210.0" y1="360.0" x2="174.3" y2="373.0" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M300 270 Q260 260 260 330" stroke="#4f7f3a" stroke-width="5" fill="none"/>
+  <path d="M260.0 290.0 Q249.0 315.3 224.3 303.0 Q235.3 277.7 260.0 290.0 Z" fill="#c9c94a"/>
+  <line x1="260.0" y1="290.0" x2="224.3" y2="303.0" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M256.0 310.0 Q245.0 335.3 220.3 323.0 Q231.3 297.7 256.0 310.0 Z" fill="#7fae3e"/>
+  <line x1="256.0" y1="310.0" x2="220.3" y2="323.0" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M260.0 330.0 Q249.0 355.3 224.3 343.0 Q235.3 317.7 260.0 330.0 Z" fill="#c9c94a"/>
+  <line x1="260.0" y1="330.0" x2="224.3" y2="343.0" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M300 270 Q340 260 340 340" stroke="#4f7f3a" stroke-width="5" fill="none"/>
+  <path d="M340.0 293.3 Q364.7 281.0 375.7 306.3 Q351.0 318.6 340.0 293.3 Z" fill="#c9c94a"/>
+  <line x1="340.0" y1="293.3" x2="375.7" y2="306.3" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M336.0 316.7 Q360.7 304.4 371.7 329.7 Q347.0 342.0 336.0 316.7 Z" fill="#7fae3e"/>
+  <line x1="336.0" y1="316.7" x2="371.7" y2="329.7" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M340.0 340.0 Q364.7 327.7 375.7 353.0 Q351.0 365.3 340.0 340.0 Z" fill="#c9c94a"/>
+  <line x1="340.0" y1="340.0" x2="375.7" y2="353.0" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M300 270 Q395 260 395 370" stroke="#4f7f3a" stroke-width="5" fill="none"/>
+  <path d="M395.0 303.3 Q419.7 291.0 430.7 316.3 Q406.0 328.6 395.0 303.3 Z" fill="#c9c94a"/>
+  <line x1="395.0" y1="303.3" x2="430.7" y2="316.3" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M391.0 336.7 Q415.7 324.4 426.7 349.7 Q402.0 362.0 391.0 336.7 Z" fill="#7fae3e"/>
+  <line x1="391.0" y1="336.7" x2="426.7" y2="349.7" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M395.0 370.0 Q419.7 357.7 430.7 383.0 Q406.0 395.3 395.0 370.0 Z" fill="#c9c94a"/>
+  <line x1="395.0" y1="370.0" x2="430.7" y2="383.0" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M300.0 275.0 Q266.0 240.0 300.0 205.0 Q334.0 240.0 300.0 275.0 Z" fill="#7fae3e"/>
+  <line x1="300.0" y1="275.0" x2="300.0" y2="205.0" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M300.0 275.0 Q251.5 270.0 255.0 221.4 Q303.5 226.3 300.0 275.0 Z" fill="#7fae3e"/>
+  <line x1="300.0" y1="275.0" x2="255.0" y2="221.4" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M300.0 275.0 Q296.5 226.3 345.0 221.4 Q348.5 270.0 300.0 275.0 Z" fill="#7fae3e"/>
+  <line x1="300.0" y1="275.0" x2="345.0" y2="221.4" stroke="#ffffff55" stroke-width="2"/>
+  <path d="M225.0 290 L375.0 290 L355.0 400 L245.0 400 Z" fill="#f2efe7"/>
+  <rect x="215.0" y="268" width="170" height="26" rx="6" fill="#e0dbd0"/>
+
+</svg>
